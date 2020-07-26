@@ -6,5 +6,7 @@ This is search engine built in react for musicians and their top tracks. It is a
 
 # Getting Started
 
+##Installation
+
 npm start &&
 npm run dev
