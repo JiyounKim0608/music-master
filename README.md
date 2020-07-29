@@ -15,4 +15,4 @@ npm run dev
 
 # Main page
 
-https://github.com/JiyounKim0608/music-master/blob/master/main-page.gif
+![alt mainpage](https://github.com/JiyounKim0608/music-master/blob/master/main-page.gif)
