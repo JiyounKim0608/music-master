@@ -14,5 +14,5 @@ npm run dev
 ## Demo
 
 # Main page
-
-main-page.gif
+![Image of main page]
+(https://github.com/JiyounKim0608/music-master/blob/master/main-page.gif)
