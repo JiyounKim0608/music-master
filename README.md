@@ -10,3 +10,9 @@ This is search engine built in react for musicians and their top tracks. It is a
 
 npm start &&
 npm run dev
+
+## Demo
+
+# Main page
+
+main-page.gif
