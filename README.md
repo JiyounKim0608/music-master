@@ -11,8 +11,8 @@ This is search engine built in react for musicians and their top tracks. It is a
 npm start &&
 npm run dev
 
-## Demo
+# Demo
 
-# Main page
+## Main page
 
 ![alt mainpage](https://github.com/JiyounKim0608/music-master/blob/master/main-page.gif)
